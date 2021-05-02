@@ -25,6 +25,7 @@ View all employees:
 
 
 if user has less privilige some buttons will be disabled.
+
 ![Screenshot 2021-05-02 231545](https://user-images.githubusercontent.com/69484554/116828012-60126c00-ab9c-11eb-8d22-144ce5462ffd.png)
 
 Here is the ER diagram.
