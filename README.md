@@ -4,7 +4,7 @@ Language useD: C#
 Framework: .NET
 
 More description.
-Loggind:
+Logging:
 
 ![image](https://user-images.githubusercontent.com/69484554/116827837-7ff56000-ab9b-11eb-90f0-5d38816927a5.png)
 
