@@ -1,5 +1,6 @@
 # Company-DB
 Here we try to provide simple Company application, that has departments, employees, and projects. This system contains simple logging system; and based the privilage the user has, the logging system direct him to proper forms, with limited access to every kind of user. It's connected to Microsoft SQL Server, it directyly access the date from server.
+
 The application assure good abstractoin; the program is divided between Database mangaer, Controller, applayer, and GUI each is concerned with specific functinalities.
 Language useD: C#
 Framework: .NET
